@@ -1,0 +1,7 @@
+.local*
+.cache*
+.bash*
+.jupyter*
+.ipy*
+.RData*
+.Rhist*
